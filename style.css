@@ -1,0 +1,17 @@
+.uvlow {
+    background-color: lime;
+    color: #000000;
+}
+.uvmed {
+    background-color: yellow;
+    color: #000000;
+}
+.uvhigh {
+    background-color: orange;
+}
+.uvveryhigh {
+    background-color: red;
+}
+.uvtoohigh {
+    background-color: purple;
+}
